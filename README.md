@@ -88,10 +88,10 @@ jupyter notebook notebooks/03_modelo_ml.ipynb
 
 | Semana | Entregable                     | Estado      |
 |--------|--------------------------------|-------------|
-| S1     | Arquitectura + EDA inicial     | ⬜ Pendiente |
-| S2     | Pipeline Hadoop/Spark          | ⬜ Pendiente |
-| S3     | Implementación NoSQL           | ⬜ Pendiente |
-| S4     | Sustentación EP                | ⬜ Pendiente |
+| S1     | Arquitectura + EDA inicial     | REALIZADO |
+| S2     | Pipeline Hadoop/Spark          | REALIZADO |
+| S3     | Implementación NoSQL           | REALIAZDO |
+| S4     | Sustentación EP                | REALIZADO |
 | S5     | Procesamiento Spark completo   | ⬜ Pendiente |
 | S6     | Modelo ML entrenado            | ⬜ Pendiente |
 | S7     | Datos limpios + Scraping       | ⬜ Pendiente |
